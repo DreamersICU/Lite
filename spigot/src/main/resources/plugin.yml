@@ -1,0 +1,9 @@
+name: xLite
+version: '${version}'
+main: icu.dreamers.xlite.xLite
+api-version: 1.18
+authors: [ ItzPolar ]
+description:
+  A light-weight Kotlin and Spigot based Minecraft:
+    Java Edition network core plugin, built off xCore: an in-house built library of commands and features.
+website: dreamers.icu
