@@ -1,5 +1,6 @@
 package icu.dreamers.xlite
 
+import icu.dreamers.xlite.listeners.ChatListener
 import org.bukkit.plugin.java.JavaPlugin
 
 class xLite : JavaPlugin() {
@@ -16,6 +17,11 @@ class xLite : JavaPlugin() {
             - Warps
             - Point Locator
         */
+
+        /* Listeners */
+
+        ChatListener(instance)
+
     }
 
     companion object {
