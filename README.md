@@ -38,7 +38,6 @@ I'm aware of these issues and as such I'm working on a fix for both of these.
 ------------
 ### Technologies Used:
 - Kotlin
-- Cloud Framework
 - SpigotAPI
 - Gradle
 
