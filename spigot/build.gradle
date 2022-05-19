@@ -21,7 +21,6 @@ repositories {
 dependencies {
     compileOnly 'org.spigotmc:spigot-api:1.18.1-R0.1-SNAPSHOT'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
-    implementation("net.kyori:adventure-api:4.10.1")
 }
 
 def targetJavaVersion = 17
